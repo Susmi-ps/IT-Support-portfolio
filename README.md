@@ -33,7 +33,7 @@ This repository documents my personal Windows Server home lab, built to practise
 
 ## Evidence
 
-Screenshots of selected lab tasks are available in the [screenshots](screenshots/) folder.
+Screenshots of selected lab tasks are available in the [Screenshots](Screenshots/) folder.
 
 ## Skills Practised
 
