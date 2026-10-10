@@ -1,1 +1,20 @@
-Screenshots and evidence from my Windows Server IT support home lab.
+# IT Support Lab — Screenshot Evidence
+
+This folder contains screenshots documenting practical exercises completed in my personal Windows Server home lab.
+
+## 1. Windows Server Environment
+Evidence of the Windows Server lab environment running in VirtualBox.
+
+## 2. Active Directory
+Screenshots demonstrating user account settings, password reset practice, and Helpdesk group membership.
+
+## 3. DNS and Networking
+Evidence of IP configuration, hostname checks, DNS resolution, and network connectivity tests.
+
+## 4. Windows Troubleshooting
+An Event Viewer investigation of a Network List Service error (Event ID 7023). This records an issue investigated during the lab; it does not imply the issue was resolved.
+
+## 5. System Diagnostics
+Evidence of a selected `dcdiag` diagnostic test that passed.
+
+These screenshots demonstrate learning and practice in a personal lab environment, not production IT administration.Screenshots and evidence from my Windows Server IT support home lab.
